@@ -1,0 +1,84 @@
+ /*Bollywood*/
+ #hr21 {
+     height: 3px;
+     width: 55vw;
+     background-color: grey;
+     position: absolute;
+     top: 300px;
+     left: 50px;
+ }
+
+ .ltimg1 {
+     height: 250px;
+     width: 400px;
+     border-radius: 30px;
+     position: absolute;
+     top: 20px;
+     left: 10px;
+ }
+
+ .latbox {
+     margin-left: 420px;
+     padding-top: 30px;
+ }
+
+ #hr22 {
+     height: 3px;
+     width: 55vw;
+     background-color: grey;
+     position: absolute;
+     top: 600px;
+     left: 50px;
+ }
+
+ #hr23 {
+     height: 3px;
+     width: 55vw;
+     background-color: grey;
+     position: absolute;
+     top: 900px;
+     left: 50px;
+ }
+
+ .sidebox21 {
+     position: absolute;
+     top: 300px;
+     left: 850px;
+     height: 590px;
+     width: 450px;
+ }
+
+ .sidebox22 {
+     position: absolute;
+     top: 660px;
+     left: 850px;
+     height: 590px;
+     width: 450px;
+ }
+
+ .sidebox23 {
+     position: absolute;
+     top: 1060px;
+     left: 850px;
+     height: 590px;
+     width: 450px;
+ }
+
+ /* technology */
+ .sidebox32 {
+     position: absolute;
+     top: 700px;
+     left: 850px;
+     height: 590px;
+     width: 450px;
+ }
+
+ .sidebox33 {
+     position: absolute;
+     top: 1100px;
+     left: 850px;
+     height: 590px;
+     width: 450px;
+ }
+
+ /* hollywood */

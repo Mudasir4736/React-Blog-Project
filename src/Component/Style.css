@@ -1,0 +1,238 @@
+@import url(../Pages/allpages.css);
+
+body {
+    background-color: rgb(226, 250, 250);
+}
+
+ul {
+    display: flex;
+    gap: 150px;
+    text-decoration: none;
+    margin-left: 80px;
+}
+
+li {
+    list-style: none;
+}
+
+.the {
+    position: relative;
+    top: 20px;
+    left: -50px;
+    font-size: 25px;
+    transform: matrix(0, -1, 1, 0, 0, 0);
+    padding-bottom: 50px;
+}
+
+.siren {
+    position: absolute;
+    top: -50px;
+    left: 615px;
+    font-size: 80px;
+    font-weight: 500;
+}
+
+.p1 {
+    height: 500px;
+    width: 650px;
+    position: absolute;
+    left: 120px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+
+.p2 {
+    height: 240px;
+    width: 450px;
+    position: absolute;
+    left: 780px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.p3 {
+    height: 248px;
+    width: 450px;
+    position: absolute;
+    left: 780px;
+    top: 445px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.sp1 {
+    position: absolute;
+    top: 630px;
+    left: 320px;
+    font-size: 30px;
+    color: white;
+}
+
+.sp2 {
+    position: absolute;
+    top: 390px;
+    left: 920px;
+    font-size: 30px;
+    color: white;
+}
+
+.sp3 {
+    position: absolute;
+    top: 650px;
+    left: 920px;
+    font-size: 30px;
+    color: rgb(252, 245, 245);
+}
+
+.container {
+    position: absolute;
+    top: 830px;
+    left: 150px;
+    display: flex;
+    gap: 60px;
+    height: 4500px;
+    width: 500px;
+    border-radius: 20px;
+}
+
+.boxdetails {
+    height: 300px;
+    width: 300px;
+
+}
+
+.container2 {
+    position: absolute;
+    top: 830px;
+    left: 550px;
+    display: flex;
+    gap: 60px;
+    height: 4500px;
+    width: 500px;
+    border-radius: 20px;
+}
+
+.boxdetails2 {
+    height: 300px;
+    width: 300px;
+}
+
+.container3 {
+    position: absolute;
+    top: 830px;
+    left: 950px;
+    display: flex;
+    gap: 60px;
+    height: 4500px;
+    width: 500px;
+    border-radius: 20px;
+}
+
+.boxdetails3 {
+    height: 300px;
+    width: 300px;
+}
+
+.latestarticles {
+    height: 800px;
+    width: 800px;
+
+}
+
+#hr1 {
+    height: 3px;
+    width: 55vw;
+    background-color: grey;
+    position: absolute;
+    top: 1400px;
+    left: 140px;
+}
+
+#hr2 {
+    height: 3px;
+    width: 55vw;
+    background-color: grey;
+    position: absolute;
+    top: 1700px;
+    left: 140px;
+}
+
+.ltimg1 {
+    height: 250px;
+    width: 400px;
+    border-radius: 30px;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+
+.latbox {
+    margin-left: 420px;
+    padding-top: 30px;
+}
+
+.ltimg2 {
+    height: 250px;
+    width: 400px;
+    border-radius: 30px;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+
+.latbox2 {
+    margin-left: 420px;
+    padding-top: 30px;
+}
+
+#hr3 {
+    height: 3px;
+    width: 55vw;
+    background-color: grey;
+    position: absolute;
+    top: 2000px;
+    left: 140px;
+}
+
+.ltimg3 {
+    height: 250px;
+    width: 400px;
+    border-radius: 30px;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+
+.latbox3 {
+    margin-left: 420px;
+    padding-top: 30px;
+    
+}
+
+#hr4 {
+    height: 3px;
+    width: 55vw;
+    background-color: grey;
+    position: absolute;
+    top: 2300px;
+    left: 140px;
+}
+
+.mazapic {
+    height: 590px;
+    width: 300px;
+    border: 1px solid black;
+    position: absolute;
+    top: 1400px;
+    left: 950px;
+}
+
+.sidebox {
+    position: absolute;
+    top: 2080px;
+    left: 970px;
+    height: 590px;
+    width: 300px;
+
+}
